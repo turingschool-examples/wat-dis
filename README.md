@@ -5,6 +5,8 @@ This repository contains a series of exercises intended to help you practice usi
 ### Setup
 
 ```
+git clone https://github.com/turingschool-examples/wat-dis.git
+cd wat-dis
 ```
 
 ### Working through the exercises

@@ -20,6 +20,7 @@ require "pry"
 class Pizza
   def bake(temp)
     # Q: What is the value of temp?
+    # (you should pry here to find out!)
     # A: _______________
     if temp > 300
       @cooked = true

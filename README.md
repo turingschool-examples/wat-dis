@@ -28,7 +28,7 @@ class Pizza
   end
 end
 
-Pizza.new
+Pizza.new.bake(400)
 ```
 
 To complete the exercise, use `pry` to pause the code at that spot and examine the context. Don't forget that pry allows you to invoke any methods or access any variables that would be available at that particular location in the code!

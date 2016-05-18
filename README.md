@@ -32,3 +32,11 @@ Pizza.new
 ```
 
 To complete the exercise, use `pry` to pause the code at that spot and examine the context. Don't forget that pry allows you to invoke any methods or access any variables that would be available at that particular location in the code!
+
+### Recommended Order
+
+1. `dragon.rb`
+2. `pirate.rb`
+3. `hippogriff.rb`
+4. `medusa.rb`
+5. `trick_or_treat.rb`
